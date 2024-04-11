@@ -9,9 +9,6 @@
 # How LOG-IN page looks
 <img src="./image/Screenshot 2024-04-11 105630.png" alt="login">
 
-# SIGNUP page
-<img src="./image/Screenshot 2024-04-11 105701.png" alt="signup">
-
 # GitHub Page
 <a href="https://github.com/SonOfChrist">Stans GitHubAccount</a>
 
